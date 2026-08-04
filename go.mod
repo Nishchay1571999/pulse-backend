@@ -5,7 +5,7 @@ go 1.23.0
 toolchain go1.24.7
 
 require (
-	github.com/go-redis/redis/v8 v8.11.5
+	github.com/go-redis/redis/v9 v9.22.0
 	github.com/google/uuid v1.6.0
 	github.com/gorilla/mux v1.8.1
 	github.com/minio/minio-go/v7 v7.0.95
