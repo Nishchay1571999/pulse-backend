@@ -2,7 +2,7 @@ module github.com/Nishchay1571999/pulse/backend
 
 go 1.23.0
 
-toolchain go1.24.7
+toolchain go1.27.1
 
 require (
 	github.com/go-redis/redis/v8 v8.11.5
